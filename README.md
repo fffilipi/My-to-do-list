@@ -7,6 +7,3 @@
 <p> JavaScript - Para dar a funcionalidade ao código, criado funções que fazem adicionar tarefas em formato de lista, assim como apagar. Aplicação salva tarefas no navegador; </p>
 
 Link do site: https://tasklist2021.netlify.app/
-
-Segue logo a baixo um breve vídeo.
-
